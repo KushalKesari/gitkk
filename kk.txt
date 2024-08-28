@@ -1,1 +1,2 @@
 empty
+This is my first git bash class,i've learned some new things in git
